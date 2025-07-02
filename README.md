@@ -9,7 +9,7 @@ Saves hotkey settings in a JSON config file.
 Minimizes to system tray with tray icon.
 Built using C# and NAudio library.
 Usage:
-Run the program, press F10 to configure hotkeys. Restart the program. Done. Change the volume without alttab in YM. Close the console window to exit.
+Run the program, press F10 to configure hotkeys. Restart the program. Done. Change the volume without alttab in YM (FOR THE PROGRAM TO WORK CORRECTLY, TURN ON THE MUSIC BEFORE OPEN THE PROGRAM!). Close the console window to exit.
 Requirements:
 Windows OS.
 .NET 8.0 Runtime (or SDK for development).
@@ -26,7 +26,7 @@ README (RU)
 Свертывание в системный трей с иконкой.
 Реализовано на C# с использованием библиотеки NAudio.
 Использование:
-Запустите программу, настройте горячие клавиши, перезапустите, Готово. Управляйте громкостью Яндекс Музыки находясь без разницы в каком приложении. Нажмите F10 (или вашу горячую клавишу) для повторной настройки. Закрытие консоли завершит программу.
+Запустите программу, настройте горячие клавиши, перезапустите, Готово. Управляйте громкостью Яндекс Музыки находясь без разницы в каком приложении (ДЛЯ КОРРЕТНОЙ РАБОТЫ ПРОГРАММЫ, СРАЗУ ВКЛЮЧИТЕ МУЗЫКУ ЗАРАНЕЕ!). Нажмите F10 (или вашу горячую клавишу) для повторной настройки. Закрытие консоли завершит программу.
 Требования:
 Windows.
 .NET 8.0 Runtime (или SDK для разработки).
