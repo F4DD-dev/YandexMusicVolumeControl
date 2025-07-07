@@ -29,4 +29,4 @@ Quick hotkey configuration by pressing keys.
 Built using C# and NAudio library.
 (+Doesnt use computer resources, smallsize, and easy to configure)
 
-LICENSE GPL v3
+**LICENSE GPL v3**
