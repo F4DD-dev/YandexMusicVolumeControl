@@ -13,6 +13,7 @@ README (RU)
 Свертывание в системный трей с кастомной иконкой.
 Быстрая настройка горячих клавиш нажатием нужных кнопок.
 Реализовано на C# с использованием библиотеки NAudio.
+(+не занимает ресурсы компьютера, легкое по весу и легко настраивается)
 -----------------------------------------------------------------------------------------------------------------
 README (EN)
 Yandex Music Controller
@@ -26,3 +27,4 @@ Saves hotkey settings in a JSON config file.
 Minimizes to system tray with custom tray icon.
 Quick hotkey configuration by pressing keys.
 Built using C# and NAudio library.
+(Doesn't use computer resources, lightweight, and easy to configure)
