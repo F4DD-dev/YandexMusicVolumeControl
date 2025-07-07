@@ -28,3 +28,5 @@ Minimizes to system tray with custom tray icon.
 Quick hotkey configuration by pressing keys.
 Built using C# and NAudio library.
 (+Doesnt use computer resources, smallsize, and easy to configure)
+
+LICENSE GPL v3
