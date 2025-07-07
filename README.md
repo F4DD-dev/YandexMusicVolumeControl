@@ -27,4 +27,4 @@ Saves hotkey settings in a JSON config file.
 Minimizes to system tray with custom tray icon.
 Quick hotkey configuration by pressing keys.
 Built using C# and NAudio library.
-(+Doesnt use computer resources, smallsize, and easy to configure).
+(+Doesnt use computer resources, smallsize, and easy to configure)
