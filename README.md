@@ -19,12 +19,12 @@ README (EN)
 Yandex Music Controller
 A small utility to control Yandex Music playback and volume via customizable global hotkeys.
 Features
-Increase/decrease volume in 10% steps
-Toggle mute/unmute
-Control playback: next track, previous track, pause/play
-Automatically detects Yandex Music process
-Saves hotkey settings in a JSON config file
-Minimizes to system tray with custom tray icon
-Quick hotkey configuration by pressing keys
-Built using C# and NAudio library
-(+Doesnt use computer resources, smallsize, and easy to configure)
+Increase/decrease volume in 10% steps.
+Toggle mute/unmute.
+Control playback: next track, previous track, pause/play.
+Automatically detects Yandex Music process.
+Saves hotkey settings in a JSON config file.
+Minimizes to system tray with custom tray icon.
+Quick hotkey configuration by pressing keys.
+Built using C# and NAudio library.
+(+Doesnt use computer resources, smallsize, and easy to configure).
